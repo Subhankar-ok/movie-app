@@ -43,5 +43,5 @@ movie-app/
 ## 🙌 Author
 **Subhankar Samanta**  
 📧 [samantarahul2055@gmail.com](mailto:samantarahul2055@gmail.com)  
-🌐 [My Portfolio](https://subhankar-portfolio.netlify.app/)
+🌐 [My Portfolio](https://subhanakar-okhb.netlify.app/)
 💻 [GitHub Profile](https://github.com/Subhankar-ok)
